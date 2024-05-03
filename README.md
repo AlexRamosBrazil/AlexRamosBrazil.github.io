@@ -21,3 +21,13 @@
 * Execução de levantamentos de processos, áreas e documentos durante a fusão das companhias ACE e Chubb Seguros, identificando melhorias nos processos existentes e redução de impactos operacionais durante e após a fusão das companhias.
 * Suporte à análise e definição do Modelo Lógico Operacional das áreas de atendimento da empresa Porto Seguros de acordo com as melhores práticas de mercado, reduzindo o efetivo operacional onde havia sobreposições de esforços ou sobre alocação de equipes.
 * Amplo background funcional em análise e desenho de requisitos, identificação de desafios funcionais e sistêmicos, controle de riscos, problemas, cronogramas e recursos.
+
+## Formação Acadêmica
+* Pós-Graduação: Empreendedorismo e Novos Negócios - Faculdade IMES - em andamento
+* Bacharelado: Engenharia Elétrica Telecomunicações - Faculdade de Engenharia Industrial/FEI - Dezembro 2002
+* Técnico: Redes de Comunicação - SENAI Suiço-Brasileiro - Junho 2006
+
+## Idiomas
+* Inglês: Avançado
+* Espanhol: Avançado
+* Português: Nativo
