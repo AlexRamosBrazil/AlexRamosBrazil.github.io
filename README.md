@@ -1,9 +1,9 @@
 # ALEXANDER RAMOS
 
-- Telefone: +55 (11) 96474-5912
-- e-mail: eng.alexramos@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pessoalalexramos/
-- São Paulo - SP
+* **Telefone:** +55 (11) 96474-5912
+* **e-mail:** eng.alexramos@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/pessoalalexramos/
+* **Localização:** São Paulo - SP
 
 ## Gerência de Projetos em Tecnologia
 
@@ -23,11 +23,11 @@
 * Amplo background funcional em análise e desenho de requisitos, identificação de desafios funcionais e sistêmicos, controle de riscos, problemas, cronogramas e recursos.
 
 ## Formação Acadêmica
-* Pós-Graduação: Empreendedorismo e Novos Negócios - Faculdade IMES - em andamento
-* Bacharelado: Engenharia Elétrica Telecomunicações - Faculdade de Engenharia Industrial/FEI - Dezembro 2002
-* Técnico: Redes de Comunicação - SENAI Suiço-Brasileiro - Junho 2006
+* **Pós-Graduação:** Empreendedorismo e Novos Negócios - Faculdade IMES - em andamento
+* **Bacharelado:** Engenharia Elétrica Telecomunicações - Faculdade de Engenharia Industrial/FEI - Dezembro 2002
+* **Técnico:** Redes de Comunicação - SENAI Suiço-Brasileiro - Junho 2006
 
 ## Idiomas
-* Inglês: Avançado
-* Espanhol: Avançado
-* Português: Nativo
+* **Inglês:** Avançado
+* **Espanhol:** Avançado
+* **Português:** Nativo
