@@ -27,7 +27,7 @@ Profissional experiente em consultoria de tecnologia com foco em gerenciamento d
 
 ## Formação Acadêmica
 
-* **MBA - Empreendedorismo e Novos Negócios** - Faculdade do Instituto Mineiro de Educação Superior (IMES) - cursando até Out/2024
+* **Põs-Graduação em Empreendedorismo e Novos Negócios** - Instituto Mineiro de Educação Superior (IMES) - cursando até Out/2024
 * **Engenharia Elétrica de Telecomunicações** - Faculdade de Engenharia Industrial (FEI) - Dez/2002
 * **Técnico em Redes de Comunicação** - SENAI Suíço-Brasileiro - Jun/2006
 
