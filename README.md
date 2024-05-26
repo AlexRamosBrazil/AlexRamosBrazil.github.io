@@ -43,32 +43,34 @@
 
 ### **Accenture do Brasil Ltda. (Set/2007 - Mar/2024) - *Empresa multinacional de grande porte do segmento de Consultoria***
 
-***Gerente de Projetos em Tecnologia (01/17 – 03/24)***
-*Reporte ao Gerente Sr e ao Diretor da área de Serviços Financeiros.*
+***Gerente de Projetos em Tecnologia (01/17 – 03/24)*** - *Reporte ao Gerente Sr e ao Diretor da área de Serviços Financeiros.*
+
 **Principais projetos/realizações:**
 * Coordenação de equipes multidisciplinares locais e offshore no levantamento de requisitos, definição de soluções funcionais e técnicas, desenvolvimento, testes, implementação e suporte ao sistema Pega em produção para área de sinistros da empresa Chubb Seguros na América Latina.
 * Implementação de solução de sinistros do Pega nas áreas de Produtos, Subscrição e Sinistros na empresa Zurich-Santander, sendo a primeira implementação da solução completa no Brasil.
 * Tropicalização do pacote de mercado TIA (The Insurance Application) para o mercado de seguros da América Latina na empresa Zurich Seguros, unificando os processos e ferramentas para as áreas de criação do Produto, Subscrição, Sinistros, Financeiro, Contábil, Resseguro e Cosseguro.
+  
 
-***Consultor em Tecnologia (01/11 – 12/16)***
-*Reporte ao Gerente de Projetos.*
+***Consultor em Tecnologia (01/11 – 12/16)*** - *Reporte ao Gerente de Projetos.*
+
 **Principais projetos/realizações:**
 * Discussão, análise, detalhamento e refinamento de Requisitos de Negócio para implementação de Aplicações de Seguros em projetos nas empresas Zurich Seguros e Zurich-Santander.
-* Definição e coordenação de Testes de Integração de Sistemas com equipes de desenvolvimento, sendo o profissional chave na triagem de testes de aceitação do usuário, coordenação de correção de bugs e suporte em projeto da área de Ramos Elementares na empresa Porto Seguro
+* Definição e coordenação de Testes de Integração de Sistemas com equipes de desenvolvimento, sendo o profissional chave na triagem de testes de aceitação do usuário, coordenação de correção de bugs e suporte em projeto da área de Ramos Elementares na empresa Porto Seguro.
+  
 
-***Analista em Tecnologia (09/07 – 12/10)***
-*Reporte ao Consultor e ao Gerente de Projetos.*
+***Analista em Tecnologia (09/07 – 12/10)*** - *Reporte ao Consultor e ao Gerente de Projetos.*
+
 **Principais projetos/realizações:**
 * Suporte na captura de requisitos, organização e definição de matriz de dependências, bem como na elaboração de desenhos funcionais para projeto na empresa Zurich Seguros.
 * Coordenação de reuniões de discussão funcional e técnica entre as equipes da Accenture e do cliente.
 * Desenvolvimento de Modelo Lógico Operacional de seguros para redução de efetivo operacional na empresa Porto Seguro.
 * Testador funcional para avaliação do atendimento dos requisitos entregues durante as fases iniciais do projeto, definindo os ajustes necessários e coordenando as correções.
+  
 
+### **Net Serviços Ltda. (Fev/2005 - Jun/2007) - *Empresa nacional de grande porte no setor de Telecomunicações***
 
-#### **Net Serviços Ltda. (Fev/2005 - Jun/2007) - *Empresa nacional de grande porte no setor de Telecomunicações***
+***Técnico de Campo (02/05 - 06/07)*** - *Reporte ao Supervisor da área de Atendimento Técnico*
 
-***Técnico de Campo (02/05 - 06/07)***
-*Reporte ao Supervisor da área de Atendimento Técnico*
 **Principais projetos/realizações:**
 * Planejamento, instalação e manutenção de sistemas de transmissão de dados por cabo (tv por assinatura e internet banda larga).
 * Análise, correção e projeto técnico de instalações de cabos.
