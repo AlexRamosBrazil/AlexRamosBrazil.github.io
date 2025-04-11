@@ -41,6 +41,28 @@
 
 ## Experiência Profissional
 
+### **CAPCO (Jul/2024 - atual) - *Empresa multinacional de grande porte do segmento de Consultoria***
+
+***Business Analyst (07/24 – atual)*** - *Reporte ao Gerente de Projetos e Gerente de Programas*
+
+**Principais projetos/realizações:**
+* Implementação do primeiro Aplicativo de Seguros parra Group Insurance na Prudential
+* Análise e detalhamento de necessidades de negócio para definição dos Requisitos Functionais e Técnicos implementados no projeto.
+* Criação, priorização e acompanhamento da implementação das User Stories em modelo Agile.
+* Planejamento de Sprints, entregas e janelas de implementação.
+
+
+### **DBC (Mai/2024 - Jul/2024) - *Empresa nacional de médio porte do segmento de Consultoria***
+
+***PMO - Project Management Office (05/24 – 07/24)*** - *Reporte ao CIO Brazil.*
+
+**Principais projetos/realizações:**
+* Implementação de controle de projetos unificado para modernização da operação FedEx.
+* Definição de Métricas, KPI's e OKR's alvo para 2024/2025.
+* Realização de acompanhamento semanal de projetos, riscos, issues e re-priorizações de atividades.
+* Identificação de recursos, sistemas e processos chave foco da modernização FedEx.
+
+
 ### **Accenture do Brasil Ltda. (Set/2007 - Mar/2024) - *Empresa multinacional de grande porte do segmento de Consultoria***
 
 ***Gerente de Projetos em Tecnologia (01/17 – 03/24)*** - *Reporte ao Gerente Sr e ao Diretor da área de Serviços Financeiros.*
