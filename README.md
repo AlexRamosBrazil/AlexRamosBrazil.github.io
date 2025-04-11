@@ -27,7 +27,8 @@
 
 ## Formação Acadêmica
 
-* **Pós-Graduação em Empreendedorismo e Novos Negócios** - Instituto Mineiro de Educação Superior (IMES) - cursando até Out/2024
+* **Pós-Graduação em Gestão de Projetos Agile** - Instituto Mineiro de Educação Superior (IMES) - Cursando até Dez/2025
+* **Pós-Graduação em Empreendedorismo e Novos Negócios** - Instituto Mineiro de Educação Superior (IMES) - Dez/2024
 * **Engenharia Elétrica de Telecomunicações** - Faculdade de Engenharia Industrial (FEI) - Dez/2002
 * **Técnico em Redes de Comunicação** - SENAI Suíço-Brasileiro - Jun/2006
 
