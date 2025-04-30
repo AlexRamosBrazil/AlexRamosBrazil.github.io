@@ -55,7 +55,7 @@
 
 ### **DBC (Mai/2024 - Jul/2024) - *Empresa nacional de médio porte do segmento de Consultoria***
 
-***PMO - Project Management Office (05/24 – 07/24)*** - *Reporte ao CIO Brazil.*
+***PMO - Project Management Office (05/24 – 07/24)*** - *Reporte ao CIO FedEx Brazil e Gerente Senior DBC.*
 
 **Principais projetos/realizações:**
 * Implementação de controle de projetos unificado para modernização da operação FedEx.
